@@ -1,0 +1,10 @@
+data/keys/
+data/db/
+data/images/
+logs/
+*.log
+*.db
+*.sqlite
+__pycache__/
+*.pyc
+config.yaml
