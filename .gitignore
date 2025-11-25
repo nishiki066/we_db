@@ -9,6 +9,7 @@ logs/
 *.db
 *.sqlite
 tools/
+.venv/
 __pycache__/
 *.pyc
 config.yaml
