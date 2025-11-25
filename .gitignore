@@ -1,10 +1,14 @@
 data/keys/
 data/db/
 data/images/
+data/verification/
+data/temp_voices/
+data/mp3_voices/
 logs/
 *.log
 *.db
 *.sqlite
+tools/
 __pycache__/
 *.pyc
 config.yaml
