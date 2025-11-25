@@ -1,0 +1,4 @@
+pycryptodome
+PyYAML
+# 可选：语音转换
+pilk
